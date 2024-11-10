@@ -1,4 +1,4 @@
-python-dotenv
+python-dotenv   # python 3.8
 ipykernel
 dill
 sqlalchemy
