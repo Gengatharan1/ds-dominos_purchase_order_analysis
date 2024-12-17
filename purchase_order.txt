@@ -1,0 +1,65 @@
+ingredients,quantity,unit
+Barbecued Chicken,5554.579649592078,grams
+Red Peppers,11192.01594918259,grams
+Green Peppers,7683.637505777249,grams
+Tomatoes,29914.9624191281,grams
+Red Onions,44887.814992952626,grams
+Barbecue Sauce,1851.526549864026,grams
+Bacon,18995.910759224153,grams
+Pepperoni,22477.214206420085,grams
+Italian Sausage,338.7211095954417,grams
+Chorizo Sausage,1693.6055479772087,grams
+Brie Carre Cheese,118.6463994809001,grams
+Prosciutto,118.6463994809001,grams
+Caramelized Onions,63.27807972314672,grams
+Pears,39.5487998269667,grams
+Thyme,19.77439991348335,grams
+Garlic,15418.184085922005,grams
+?duja Salami,1974.3136186420465,grams
+Pancetta,2961.47042796307,grams
+Friggitello Peppers,493.57840466051164,grams
+Chicken,46664.8973119211,grams
+Artichokes,7036.394758059306,grams
+Spinach,19257.316442806874,grams
+Jalapeno Peppers,3207.0039377279386,grams
+Fontina Cheese,3793.0807518679426,grams
+Gouda Cheese,2732.178357804146,grams
+Mushrooms,22664.931026563794,grams
+Asiago Cheese,3992.993181378096,grams
+Alfredo Sauce,817.0562453973932,grams
+Pesto Sauce,4366.942793881754,grams
+Mozzarella Cheese,10005.275337761534,grams
+Provolone Cheese,678.1466306409453,grams
+Smoked Gouda Cheese,678.1466306409453,grams
+Romano Cheese,678.1466306409453,grams
+Blue Cheese,678.1466306409453,grams
+Ricotta Cheese,5013.675883999442,grams
+Gorgonzola Piccante Cheese,4010.940707199553,grams
+Parmigiano Reggiano Cheese,10027.351767998884,grams
+Kalamata Olives,375.5538159239321,grams
+Feta Cheese,1168.0609512848819,grams
+Beef Chuck Roast,-4139.544287133747,grams
+Green Olives,2521.7041881167142,grams
+Sliced Ham,1600.844038623618,grams
+Pineapple,5142.962514938816,grams
+Capocollo,44902.40027245124,grams
+Goat Cheese,9482.252778128852,grams
+Oregano,1452.7451085602538,grams
+Calabrese Salami,11393.126693759408,grams
+Eggplant,1882.8684465224553,grams
+Zucchini,4370.682116372399,grams
+Sun-dried Tomatoes,1464.8771984477419,grams
+Plum Tomatoes,1795.209728224542,grams
+Cilantro,1840.9147588258656,grams
+Corn,12272.765058839104,grams
+Chipotle Sauce,3681.8295176517313,grams
+Anchovies,3231.693564958765,grams
+Genoa Salami,5882.184980021821,grams
+Prosciutto di San Daniele,2139.6123043320176,grams
+Arugula,916.976701856579,grams
+Coarse Sicilian Salami,891.2524626661434,grams
+Luganega Sausage,445.6262313330717,grams
+Onions,222.81311566653585,grams
+Soppressata Salami,5304.511970318982,grams
+Peperoncini verdi,917.8180859719589,grams
+Thai Sweet Chilli Sauce,2147.966445726983,grams
