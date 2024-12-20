@@ -18,8 +18,8 @@ Dominos wants to optimize the process of ordering ingredients by predicting futu
     - [2. Sales Prediction](#2-sales-prediction)
     - [3. Purchase Order Generation](#3-purchase-order-generation)
   - [Results:](#results)
-  - [Skills Takeaway From This Project](#skills-takeaway-from-this-project)
   - [Project Report](#project-report)
+  - [Skills Takeaway From This Project](#skills-takeaway-from-this-project)
   - [How to Setup this project](#how-to-setup-this-project)
     - [Softwares needed](#softwares-needed)
     - [Code](#code)
@@ -79,6 +79,12 @@ Dominos wants to optimize the process of ordering ingredients by predicting futu
 
 ---
 
+## Project Report
+
+[Slides](https://docs.google.com/presentation/d/1eFGWK_jWFkWJ2upx10ZEFvOmsPl78qXtjZDFhPosNHQ)
+
+---
+
 ## Skills Takeaway From This Project
 
 - Data Cleaning and Preprocessing
@@ -86,12 +92,6 @@ Dominos wants to optimize the process of ordering ingredients by predicting futu
 - Time Series Forecasting
 - Predictive Modeling
 - Business Decision Making
-
----
-
-## Project Report
-
-[Slides](https://docs.google.com/presentation/d/1eFGWK_jWFkWJ2upx10ZEFvOmsPl78qXtjZDFhPosNHQ)
 
 ---
 
